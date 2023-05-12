@@ -338,7 +338,7 @@ void _send_to_mainboard(void)
 
 ```
 ---
-##一个接收的例子
+## 一个接收的例子
 ```c
 void OnRecvPacketId48(uint8_t* rx_data)
 {
